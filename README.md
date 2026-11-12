@@ -40,4 +40,4 @@ Build a high-end, ultra-premium 18+ adult video streaming web application with f
 
 ### 5. Execution Instructions
 - Initialize the Next.js project cleanly in the current directory (if not already initialized), install dependencies, create all components and API routes, and verify there are no TypeScript or build errors.
-- Start the dev server or confirm everything builds cleanly when done.
+- Start the dev server or confirm everything builds cleanly when done..
